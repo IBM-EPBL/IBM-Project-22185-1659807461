@@ -1,0 +1,15 @@
+h1{
+	color:white;
+	background:purple;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:20px;
+}
+label{
+	font-family:sansation;
+	font-size:20px;
+}
+
+body{
+	background-color:rgb(100, 193, 165,0.2);
+}
