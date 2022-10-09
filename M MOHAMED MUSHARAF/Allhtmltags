@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>First HTML</title>
+<meta name="author" content="M MOHAMED MUSHARAF"/>
+</head>
+<body>
+<header><center><h1>HTML Tags</h1><center></header>
+<h2><marquee>Learning Html Tags</marquee></h2>
+<strong>Author: <em>&nbsp <q><u>M MOHAMED MUSHARAF</u></q></em></strong>
+<p>List of Tags with ordered list<p>
+<ol type="a">
+<li>Paragaraph tag</li>
+<li>Bold tag</li>
+<li>H1 tag</li>
+<li>head tag</li>
+</ol>
+<p>List of Tags with unordered list</p>
+<ul type="square">
+<li>Paragaraph tag</li>
+<li>Bold tag</li>
+<li>H1 tag</li>
+<li>head tag</li>
+</ul>
+
+<details>
+<summary>Bio data</summary>
+<p>M MOHAMED MUSHARAF ECE</p>
+</details>
+<dl>
+<dt>LEARNING HTML</dt>
+<dd> HTML LEARNING IS VERY INTRESTING</dd>
+</dl>
+<table border="1">
+<caption> TEAM DETIALS </caption>
+<thead>
+<th>First Name</th>
+<th>Last Name</th>
+</thead>
+<tr>
+<td>MOHAMED MUSHARAF</td>
+<td>M</td>
+</tr>
+<tr>
+<td>MOHAMED FAIZAL</td>
+<td>M S</td>
+</tr>
+<tr>
+<td>MOHANRAJ</td>
+<td>S</td>
+</tr>
+<tr>
+<td>GIRIDHARAN</td>
+<td>G</td>
+</tr>
+</table>
+</body>
+</html>
